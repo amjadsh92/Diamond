@@ -1,6 +1,6 @@
 
-a = ""
-n = 4
+
+n = int(input())
 length = 1 + 2 * (n - 1)
 stars = ""
 empty =""
